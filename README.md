@@ -4,12 +4,19 @@
 
 > _Building software with Python, automation, and AI-assisted development._
 
-### **🚀 Tech Stack**
+## **🚀 Tech Stack**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+
+### ⚙️ Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
+
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+
+### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claudecode&logoColor=fff)
 
