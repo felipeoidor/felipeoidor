@@ -1,8 +1,8 @@
 # **Hi, I'm Pipe 👋🏼**
 
-### **Software Developer | Python • FastAPI**
+### **Software Developer**
 
-> _Building software with Python, automation, and AI-assisted development._
+> _Building software with Python, developing APIs, and designing maintainable, scalable architectures._
 
 ## **🚀 Tech Stack**
 
