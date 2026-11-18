@@ -26,8 +26,10 @@
 ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft_SQL_Server-CC2927?logo=mssqlserver-white&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=fff)
 
-### 📦 DevOps & Development Tools
+### 📦 DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claudecode&logoColor=fff)
 
